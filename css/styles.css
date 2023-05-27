@@ -76,9 +76,6 @@ ol {
 
 /* nav-menu */
 
-.portfolio-header-cntnr {
-  display: flex;
-}
 .logo {
   transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
   font-family: Raleway, sans-serif;
@@ -375,18 +372,6 @@ address {
   margin-bottom: 16px;
 }
 
-.logo {
-  font-family: 'Raleway', sans-serif;
-  font-size: 18x;
-  font-weight: 800;
-  line-height: 1.17;
-  color: #4d5ae5;
-  list-style: none;
-  text-decoration: none;
-  text-align: left;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-}
 .logo-b {
   transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
   font-size: 18px;
@@ -495,7 +480,9 @@ button:focus {
 }
 
 /* portfolio */
-
+.portfolio-header-cntnr {
+  display: flex;
+}
 .logo-p:hover {
   color: #404bbf;
 }
