@@ -1,9 +1,11 @@
 :root {
-  --primary-text-text-color-theme-dark: #ffffff;
+  --primary-text--color-theme-dark: #ffffff;
   --accent-color: fff6c00;
   --color: #2e2f42;
   --color: #434455;
   --color: #e7e9fc;
+  --transition-duration-and-function: 300ms linear,
+    background-color 300ms linear;
 }
 .visually-hidden {
   position: absolute;
