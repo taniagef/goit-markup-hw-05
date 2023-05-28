@@ -475,6 +475,7 @@ button:focus {
 }
 /* exsellence ;enu ite; */
 .excellence-menu-item {
+  background-color: #f4f4fd;
   width: calc((100% - 72px) / 4);
 }
 
