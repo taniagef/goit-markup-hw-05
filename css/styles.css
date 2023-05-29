@@ -777,4 +777,6 @@ button:focus {
 .close-btn:hover,
 .close-btn:focus {
   fill: #ffffff;
+  background-color: #404bbf;
+  border-color: #404bbf;
 }
