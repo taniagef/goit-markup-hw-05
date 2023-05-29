@@ -743,7 +743,7 @@ button:focus {
   visibility: hidden;
   pointer-events: none;
 }
-.close-button {
+.close-btn {
   position: absolute;
   top: 24px;
   right: 24px;
