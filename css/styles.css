@@ -728,7 +728,8 @@ button:focus {
   position: relative;
   overflow: hidden;
 }
-.sample-link:hover .overlay {
+.sample-link:hover .overlay,
+.sample-link:focus .overlay {
   transform: translateY(0%);
 }
 .backdrop {
