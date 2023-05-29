@@ -7,7 +7,7 @@
   --transition-duration-and-function: 300ms linear,
     background-color 300ms linear;
 }
-.visually-hidden {
+.is-hidden {
   position: absolute;
   width: 1px;
   height: 1px;
@@ -20,7 +20,6 @@
   clip: rect(0 0 0 0);
   overflow: hidden;
 }
-
 .h1,
 h2,
 h3,
