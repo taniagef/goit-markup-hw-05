@@ -447,6 +447,7 @@ button:focus {
   letter-spacing: 0.02em;
   color: #2e2f42;
   text-align: center;
+  background-color: #f4f4fd;
 }
 
 .team-menu-item {
@@ -490,7 +491,6 @@ button:focus {
 }
 /* exsellence ;enu ite; */
 .excellence-menu-item {
-  background-color: #f4f4fd;
   width: calc((100% - 72px) / 4);
 }
 
