@@ -725,7 +725,7 @@ button:focus {
   overflow: hidden;
 }
 .sample-link:hover .overlay {
-  transform: translateY(0);
+  transform: translateY(0%);
 }
 .backdrop {
   width: 100%;
